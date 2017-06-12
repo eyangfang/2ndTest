@@ -11,6 +11,7 @@
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="185,116,0,0" VerticalAlignment="Top"/>
         <Label Content="Label" HorizontalAlignment="Left" Margin="278,182,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="213,225,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="331,119,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
