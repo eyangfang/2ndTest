@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="Window1" Height="300" Width="300">
     <Grid>
-        
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="61,83,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="110,129,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>
