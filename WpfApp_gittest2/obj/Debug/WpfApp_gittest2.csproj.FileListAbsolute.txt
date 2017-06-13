@@ -12,3 +12,5 @@ c:\users\yang fang\documents\visual studio 2017\Projects\WpfApp_gittest2\WpfApp_
 c:\users\yang fang\documents\visual studio 2017\Projects\WpfApp_gittest2\WpfApp_gittest2\obj\Debug\WpfApp_gittest2.csproj.GenerateResource.Cache
 c:\users\yang fang\documents\visual studio 2017\Projects\WpfApp_gittest2\WpfApp_gittest2\obj\Debug\WpfApp_gittest2.exe
 c:\users\yang fang\documents\visual studio 2017\Projects\WpfApp_gittest2\WpfApp_gittest2\obj\Debug\WpfApp_gittest2.pdb
+C:\Users\Yang Fang\Documents\Visual Studio 2017\Projects\WpfApp_gittest2\WpfApp_gittest2\obj\Debug\Window1.g.cs
+C:\Users\Yang Fang\Documents\Visual Studio 2017\Projects\WpfApp_gittest2\WpfApp_gittest2\obj\Debug\Window1.baml
