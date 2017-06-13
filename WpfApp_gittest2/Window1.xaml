@@ -11,6 +11,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="110,129,0,0" VerticalAlignment="Top" Width="75"/>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="77,216,0,0" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="162,188,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="61,149,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
